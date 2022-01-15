@@ -1,0 +1,17 @@
+Today I learned about the order of growth and  complexity:
+The Five major notation are:
+1)Big-O: Upper Bound 
+
+2)Big-Theta: Tightly Bound
+3)Big-Omega:Lower Bound
+4)Small-O:Upper Bound
+5)Small-Omega:Lower Bound
+
+File:Comparison computational complexity.svg
+The above link represents the various time complexity in graphical form
+
+https://en.wikipedia.org/wiki/Big_O_notation#Orders_of_common_functions
+the above the link tells about all the different types of complexities
+
+But there is one complexities which is not given is Iterated logarithm
+https://en.wikipedia.org/wiki/Iterated_logarithm
